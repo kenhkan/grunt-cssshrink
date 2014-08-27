@@ -42,6 +42,6 @@
     "cssshrink"
   ],
   "dependencies": {
-    "cssshrink": "^0.0.4"
+    "cssshrink": "https://github.com/kenhkan/cssshrink/tarball/do-not-process-on-empty"
   }
 }
